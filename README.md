@@ -1,6 +1,7 @@
 hi! i'm @pontusnordstrom.
+hobby dev/freelancer
 
-- 🌱 hobbies: philosophy, chess, unix-based systems & anime/manga
+- ☕ hobbies: philosophy, chess, unix-based systems & anime/manga
 - 🌱 currently learning: c++ & rust
 - 📫 pontusnordstromm@gmail.com
 
